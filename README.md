@@ -16,3 +16,8 @@ cargo run --bin grpc-client
 ```
 
 Happy hacking
+
+## Documentation
+1. Tonic - docs.rs/tonic/0.11.0
+2. Prost - docs.rs/prost/0.12.3
+3. Protobuf releases - https://github.com/protocolbuffers/protobuf/releases
